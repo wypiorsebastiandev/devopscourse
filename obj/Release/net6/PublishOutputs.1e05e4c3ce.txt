@@ -1,0 +1,12 @@
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\devopswebapp.exe
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\Publish\web.config
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\appsettings.Development.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\appsettings.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\Publish\appsettings.Development.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\Publish\appsettings.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\Publish\devopswebapp.deps.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\Publish\devopswebapp.runtimeconfig.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\devopswebapp.dll
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\devopswebapp.deps.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\devopswebapp.runtimeconfig.json
+D:\Trainings\Devops\DevOpsFuncamentals\devops-webapp\devopswebapp\Publish\devopswebapp.pdb
